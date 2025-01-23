@@ -1,3 +1,5 @@
+###### Campanha Botnet MikroTik SOCKS4 (Heimdall)######
+62.133.60.137
 ###### Campanha RansomHub (Heimdall)######
 185.174.101.240
 38.180.81.153
@@ -9054,4 +9056,4 @@ info [.] openjdklab[.]xyz
 216.63.240.0/22 ; SBL624913
 218.92.0.0/24 ; SBL622129
 221.227.188.0/22 ; SBL624147
-teste2
+
